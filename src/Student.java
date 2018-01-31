@@ -19,7 +19,7 @@ public class Student implements Comparable {
 	 * student name and surname separated by the whitespace for example:
 	 * fullName = "David Luis";
 	 */
-	private String fullName;
+	private String fullName="murka";
 
 	/**
 	 * student date of birth in "yyyy-MM-dd" format
