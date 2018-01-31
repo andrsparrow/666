@@ -15,7 +15,7 @@ public class Main {
 	
 	
 	public static void test(){
-		System.out.println("test zone");
+		System.out.println("testing!");
 		
 	}
 
