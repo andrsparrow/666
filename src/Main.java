@@ -12,5 +12,11 @@ public class Main {
 		return "h! there";
 		
 	}
+	
+	
+	public static void test(){
+		System.out.println("test zone");
+		
+	}
 
 }
