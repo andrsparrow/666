@@ -8,5 +8,9 @@ public class Main {
 		System.out.println("helloworld!");
 		
 	}
+	public static String sayHi(){
+		return "h! there";
+		
+	}
 
 }
