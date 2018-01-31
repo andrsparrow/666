@@ -21,5 +21,11 @@ public class Main {
 		//mur mur mur;
 		
 	}
+	
+	
+		public static void testMethod2(){
+		//mur mur mur;
+		
+	}
 
 }
